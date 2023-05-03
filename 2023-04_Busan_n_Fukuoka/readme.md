@@ -2,15 +2,22 @@
 
 因為抽到一張來回釜山嘅機票，所以我哋今次就衝出日本，去吓其他國家。
 
-##目錄
+## 目錄
 
 [2023年4月11日 - 出發去釜山](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-11.md)
+
 [2023年4月12日 - 海雲台](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-12.md)
+
 [2023年4月13日 - 甘川文化村 + 南浦洞 + 出發去福岡](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-13.md)
+
 [2023年4月14日 - 海之中道 + 博多](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-14.md)
+
 [2023年4月15日 - lalaport](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-15.md)
+
 [2023年4月16日 - 福岡聖保羅堂 + Boss E．ZO + Mark Is](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-16.md)
+
 [2023年4月17日 - 回程去釜山 + 釜山市民公園 + 西面區](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-17.md)
+
 [2023年4月18日 - 回程去香港](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-18.md)
 
 ## 其他資料
@@ -25,33 +32,37 @@
 
 ### 交通網頁：
 |網頁|綱址|
-|---|----|
+|--|--|
 |釜山交通公司﹙地鐵﹚|https://www2.humetro.busan.kr/cht/main.do|
 |西鐵巴士|https://www.nishitetsu.jp/bus/|
 |福岡地鐵|https://subway.city.fukuoka.lg.jp/eng/index.php|
 |New Camellia Line|https://www.camellia-line.co.jp/|
 |JR Beetle|https://www.jrbeetle.com/|
+|福岡市営渡船|https://www.city.fukuoka.lg.jp/kowan/kyakusen/hakata-port/hyo.html|
 |釜山港國際 Terminal|https://bpex.co.kr/index.nm|
 |博多港國際 Terminal|https://www.hakataport.com/|
 
 ### 景點網頁：
 |網頁|綱址|
-|---|----|
+|--|--|
 |Sea Life Aquarium|https://www.visitsealife.com/|
 |Blueline Park|https://www.bluelinepark.com/eng/tourFacilityList.do|
-|||
+|teamLab※Forest|https://www.teamlab.art/e/forest/|
+|キッザニア福岡|https://www.kidzania.jp/fukuoka/|
+|海之中道海濱公園|https://uminaka-park.jp/|
 
 ### 商場及餐廳網頁：
 |網頁|綱址|
-|---|----|
-|本粥||
-|華味鳥||
-|lalaport||
-|Boss E．ZO||
-|Mark Is||
+|--|--|
+|本粥|https://www.bonif.co.kr/brand?brdCd=BF101|
+|華味鳥|https://www.hanamidori.net/lp_cn|
+|釜かつ|https://www.kamakatu.com/|
+|lalaport福岡|https://mitsui-shopping-park.com/lalaport/fukuoka/|
+|Boss E．ZO|https://e-zofukuoka.com/|
+|Mark Is|https://www.mec-markis.jp/fukuoka-momochi/|
 
 ### 旅遊、網誌及其他︰
 |網頁|綱址|
-|---|----|
+|--|--|
 |翻譯|https://translate.google.com|
 |Visit Busan|https://www.visitbusan.net/|
