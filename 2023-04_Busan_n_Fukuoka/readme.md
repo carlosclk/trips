@@ -47,6 +47,7 @@
 |--|--|
 |Sea Life Aquarium|https://www.visitsealife.com/|
 |Blueline Park|https://www.bluelinepark.com/eng/tourFacilityList.do|
+|うんこミュージアム|https://unkomuseum.com/|
 |teamLab※Forest|https://www.teamlab.art/e/forest/|
 |キッザニア福岡|https://www.kidzania.jp/fukuoka/|
 |海之中道海濱公園|https://uminaka-park.jp/|
