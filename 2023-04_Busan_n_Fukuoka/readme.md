@@ -59,7 +59,7 @@
 |華味鳥|https://www.hanamidori.net/lp_cn|
 |釜かつ|https://www.kamakatu.com/|
 |lalaport福岡|https://mitsui-shopping-park.com/lalaport/fukuoka/|
-|Boss E．ZO|https://e-zofukuoka.com/|
+|Boss E．ZO FUKUOKA|https://e-zofukuoka.com/|
 |Mark Is|https://www.mec-markis.jp/fukuoka-momochi/|
 
 ### 旅遊、網誌及其他︰
