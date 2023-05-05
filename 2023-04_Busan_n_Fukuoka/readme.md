@@ -2,6 +2,8 @@
 
 因為抽到一張來回釜山嘅機票，所以我哋今次就衝出日本，去吓其他國家。
 
+因為想先記錄行程，所以暫時未有相住。稍後會慢慢 upload 返。
+
 ## 目錄
 
 [2023年4月11日 - 出發去釜山](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-11.md)
