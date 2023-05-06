@@ -57,6 +57,7 @@
 ### 商場及餐廳網頁：
 |網頁|綱址|
 |--|--|
+|新世界 Centum City|https://www.shinsegae.com/store/main.do?storeCd=SC00001|
 |本粥|https://www.bonif.co.kr/brand?brdCd=BF101|
 |華味鳥|https://www.hanamidori.net/lp_cn|
 |釜かつ|https://www.kamakatu.com/|
