@@ -14,7 +14,7 @@
 
 [2023年4月14日 - 海之中道 -> 博多](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-14.md)
 
-[2023年4月15日 - lalaport](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-15.md)
+[2023年4月15日 - LaLaport Fukuoka](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-15.md)
 
 [2023年4月16日 - 福岡聖保羅堂 -> Boss E．ZO -> MARK IS 福岡ももち](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-16.md)
 
