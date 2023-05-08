@@ -6,21 +6,21 @@
 
 ## 目錄
 
-[2023年4月11日 - 出發去釜山](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-11.md)
+[2023年4月11日 - 香港 -> 釜山 -> 海雲台傳統市場](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-11.md)
 
-[2023年4月12日 - 海雲台](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-12.md)
+[2023年4月12日 - 青沙浦踏腳展望台 -> Sea Life Aquarium -> 新世界 Centum City](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-12.md)
 
-[2023年4月13日 - 甘川文化村 + 南浦洞 + 出發去福岡](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-13.md)
+[2023年4月13日 - 甘川文化村 -> 南浦洞 -> 福岡](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-13.md)
 
-[2023年4月14日 - 海之中道 + 博多](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-14.md)
+[2023年4月14日 - 海之中道 -> 博多](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-14.md)
 
 [2023年4月15日 - lalaport](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-15.md)
 
-[2023年4月16日 - 福岡聖保羅堂 + Boss E．ZO + Mark Is](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-16.md)
+[2023年4月16日 - 福岡聖保羅堂 -> Boss E．ZO -> MARK IS 福岡ももち](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-16.md)
 
-[2023年4月17日 - 回程去釜山 + 釜山市民公園 + 西面區](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-17.md)
+[2023年4月17日 - 釜山 -> 釜山市民公園 -> 西面區](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-17.md)
 
-[2023年4月18日 - 回程去香港](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-18.md)
+[2023年4月18日 - 釜山 -> 香港](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-18.md)
 
 ## 其他資料
 
@@ -61,9 +61,9 @@
 |本粥|https://www.bonif.co.kr/brand?brdCd=BF101|
 |華味鳥|https://www.hanamidori.net/lp_cn|
 |釜かつ|https://www.kamakatu.com/|
-|lalaport福岡|https://mitsui-shopping-park.com/lalaport/fukuoka/|
+|LaLaport Fukuoka|https://mitsui-shopping-park.com/lalaport/fukuoka/|
 |Boss E．ZO FUKUOKA|https://e-zofukuoka.com/|
-|Mark Is|https://www.mec-markis.jp/fukuoka-momochi/|
+|MARK IS 福岡ももち|https://www.mec-markis.jp/fukuoka-momochi/|
 
 ### 旅遊、網誌及其他︰
 |網頁|綱址|
