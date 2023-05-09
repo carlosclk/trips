@@ -22,6 +22,12 @@
 
 [2023年4月18日 - 釜山 -> 香港](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-18.md)
 
+## 現金定信用卡？
+
+出發之前睇好多 blog 同 video 都講 cashless payment 喺韓國十分盛行，好多地方都唔收 cash。
+cashless payment 可以揀用信用卡，其中以銀聯最底用。其他可以考慮嘅有 wowpass 同 namane 卡，又話匯率平，又話可以自己比圖印卡咁。
+因為我搵過 wowpass 同 namane 卡可以喺釜山增值嘅地方唔多，所以無攪。我哋去嘅地方絶大部份都收現金，只有 Sea Life Aquarium 要用信用卡。
+
 ## 其他資料
 
 ### App
