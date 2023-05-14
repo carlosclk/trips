@@ -8,7 +8,7 @@
 
 註：因為想先記錄行程，所以暫時未有相住。稍後會慢慢 upload 返。
 
-## 目錄
+## 行程
 
 [2023年4月11日 - 香港 -> 釜山 -> 海雲台傳統市場](https://github.com/carlosclk/trips/blob/main/2023-04_Busan_n_Fukuoka/2023-04-11.md)
 
