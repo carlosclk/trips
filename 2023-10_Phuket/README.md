@@ -2,12 +2,12 @@
 第一次帶個囡去泰國，好多嘢擔心，例如 KK 園。今次都盡量揀食嘢穏陣，自駕易去或者有車接送嘅地方玩。
 
 ## 行程 ##
-2023年 10月 25日 - 香港 -> 布吉
-2023年 10月 26日 - 酒店游水 -> Elephant Jungle Sanctuary -> Jungceylon
-2023年 10月 27日 - Sky Walk -> Upside Down House -> Bang Tao Beach 騎馬 -> Porte de Phuket
-2023年 10月 28日 - 珊瑚島浮潛
-2023年 10月 29日 - Jungceylon -> Thavorn Animal Zoo -> 望彌撒 -> Naka Weekend Market
-2023年 10月 30日 - 布吉 -> 香港
+[2023年 10月 25日 - 香港 -> 布吉]
+[2023年 10月 26日 - 酒店游水 -> Elephant Jungle Sanctuary -> Jungceylon]
+[2023年 10月 27日 - Sky Walk -> Upside Down House -> Bang Tao Beach 騎馬 -> Porte de Phuket]
+[2023年 10月 28日 - 珊瑚島浮潛]
+[2023年 10月 29日 - Jungceylon -> Thavorn Animal Zoo -> 望彌撒 -> Naka Weekend Market]
+[2023年 10月 30日 - 布吉 -> 香港]
 
 ## 通訊 ##
 |種類|價錢|購買地點|
