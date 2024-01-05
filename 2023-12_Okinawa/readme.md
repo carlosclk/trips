@@ -51,7 +51,7 @@
 |商場|[Happy More Farmers Market ﹙ハッピーモア市場﹚](https://happymore.jp/)|
 |商場|[美國村 ﹙美浜タウンリゾート・アメリカンビレッジ﹚](http://www.okinawa-americanvillage.com/)|
 |餐廳|[燒肉 King﹙焼肉きんぐ 名護店﹚](https://www.yakiniku-king.jp/?utm_source=google&utm_medium=map)|
-|餐廳|[海人料理 海邦丸/](https://tabelog.com/tw/okinawa/A4702/A470202/47001242/)|
+|餐廳|[海人料理 海邦丸](https://tabelog.com/tw/okinawa/A4702/A470202/47001242/)|
 |餐廳|[美麗海太郎﹙美ら海 太郎﹚](https://tabelog.com/okinawa/A4702/A470202/47017652/)|
 |商場|[那霸國際通﹙那覇国際通り商店街﹚](https://naha-kokusaidori.okinawa/)|
 |住宿|[沖繩市 Guest House Minami](https://www.airbnb.com/rooms/955494896777604597?source_impression_id=p3_1704418005_P3EsfE6PCmRFS1hQ)|
