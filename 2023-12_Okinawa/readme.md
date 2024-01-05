@@ -62,3 +62,6 @@
 |--|--|
 |All Souls Anglican Episcopal Church|[北谷諸魂教会](https://allsoulsokinawa.org/)|
 |道之驛 許田|[道の駅許田 フードコート](https://www.yanbaru-b.co.jp/)|
+|初沖カエル雜貨屋 - 沖繩租車 在地日本代購|[初沖カエル雜貨屋 - 沖繩租車 在地日本代購 Facebook Page](https://www.facebook.com/cc.oki.zakka)|
+|Enjoy Okinawa|[Enjoy Okinawa Facebook Page](https://www.facebook.com/profile.php?id=100092559141229)|
+|Oki-Family|[Oki-Family Youtube Channel](https://www.youtube.com/@OkiFamily)|
